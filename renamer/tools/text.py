@@ -14,19 +14,19 @@ class TEXT:
 
     ABOUT = """**𝖬𝗒 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 :**
 
-** My Name:** {bot_name}
+** 𝙼𝚢 𝙽𝚊𝚖𝚎:** {bot_name}
     
-** Language:** [Python 3](https://www.python.org/)
+** 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎:** [Python 3](https://www.python.org/)
 
-** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
+** 𝙵𝚛𝚊𝚖𝚎𝚆𝚘𝚛𝚔:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-** Developer:** {bot_owner}
+** 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** 𝙲𝚑𝚊𝚗𝚗𝚎𝚕:** [𝑹𝒆𝒙𝑩𝒐𝒕𝒛](https://t.me/REX_BOTZ)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+** 𝙶𝚛𝚘𝚞𝚙:** [𝑹𝒆𝒙 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑](https://t.me/REX_BOTS_SUPPORT)
 
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
+** 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎:** [𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆](https://t.me/Rex_Bots_Support)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -39,13 +39,13 @@ class TEXT:
 For source code check about
 """
 
-    START_TEXT = """Hi {user_mention},
+    START_TEXT = """𝙷𝚒 {user_mention},
 
-I am a telegram renamer with permanent thumbnail.
+𝙸 𝚊𝚖 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚁𝚎𝚗𝚊𝚖𝚎𝚛 𝙱𝚘𝚝 𝚆𝚒𝚝𝚑 𝙿𝚎𝚛𝚖𝚊𝚗𝚎𝚗𝚝 𝚃𝚑𝚞𝚖𝚋𝚗𝚊𝚒𝚕 𝚂𝚞𝚙𝚙𝚘𝚛𝚝.
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
 
-**Maintained By:** {bot_owner}
+**𝙼𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚎𝚍 𝙱𝚢:** {bot_owner}
 """
 
 
